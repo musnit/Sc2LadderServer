@@ -96,15 +96,7 @@ void AgentsConfig::LoadAgents(const std::string &BaseDirectory, const std::strin
             if (val.HasMember("RootPath") && val["RootPath"].IsString())
             {
                 NewBot.RootPath = BaseDirectory;
-                if (NewBot.RootPath.back() != '/')
-                {
-                    NewBot.RootPath += '/';
-                }
                 NewBot.RootPath = NewBot.RootPath + val["RootPath"].GetString();
-                if (NewBot.RootPath.back() != '/')
-                {
-                    NewBot.RootPath += '/';
-                }
             }
             else
             {
@@ -123,6 +115,7 @@ void AgentsConfig::LoadAgents(const std::string &BaseDirectory, const std::strin
             if (!sc2::DoesFileExist(NewBot.RootPath + NewBot.FileName))
             {
                 std::cerr << "Unable to parse bot " << NewBot.BotName << std::endl;
+                std::cerr << "Unable to parse bot " << (NewBot.RootPath + NewBot.FileName) << std::endl;
                 std::cerr << "Is the path " << NewBot.RootPath << " correct?" << std::endl;
                 continue;
             }

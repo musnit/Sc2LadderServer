@@ -1,0 +1,95 @@
+
+20-04-2019 14-01-09: Starting game vs ProtossBot
+
+20-04-2019 14-01-09: Starting game vs ProtossBot2
+
+20-04-2019 14-05-39: Starting game vs ProtossBot
+
+20-04-2019 14-05-39: Starting game vs ProtossBot2
+
+20-04-2019 14-11-04: Starting game vs ProtossBot2
+
+20-04-2019 14-11-04: Starting game vs ProtossBot
+
+20-04-2019 14-14-01: Starting game vs ProtossBot2
+
+20-04-2019 14-14-01: Starting game vs ProtossBot1
+
+20-04-2019 14-16-18: Starting game vs ProtossBot2
+
+20-04-2019 14-16-18: Starting game vs ProtossBot1
+(node:1948) UnhandledPromiseRejectionWarning: TypeError: api.startGame is not a function
+    at api.initServer.then._ (C:\snapshot\nodebot\api.js:53:9)
+(node:1948) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 1)
+(node:1948) [DEP0018] DeprecationWarning: Unhandled promise rejections are deprecated. In the future, promise rejections that are not handled will terminate the Node.js process with a non-zero exit code.
+
+20-04-2019 14-17-21: Starting game vs ProtossBot1
+
+20-04-2019 14-17-21: Starting game vs ProtossBot2
+
+20-04-2019 14-18-02: Starting game vs ProtossBot1
+
+20-04-2019 14-18-02: Starting game vs ProtossBot2
+
+20-04-2019 14-18-40: Starting game vs ProtossBot1
+
+20-04-2019 14-18-40: Starting game vs ProtossBot2
+
+20-04-2019 14-23-16: Starting game vs ProtossBot1
+
+20-04-2019 14-23-16: Starting game vs ProtossBot2
+(node:19272) UnhandledPromiseRejectionWarning: TypeError: api.startGame is not a function
+    at api.initServer.then._ (C:\snapshot\nodebot\api.js:59:9)
+(node:13336) UnhandledPromiseRejectionWarning: TypeError: api.startGame is not a function
+    at api.initServer.then._ (C:\snapshot\nodebot\api.js:59:9)
+(node:19272) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 1)
+(node:19272) [DEP0018] DeprecationWarning: Unhandled promise rejections are deprecated. In the future, promise rejections that are not handled will terminate the Node.js process with a non-zero exit code.
+(node:13336) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 1)
+(node:13336) [DEP0018] DeprecationWarning: Unhandled promise rejections are deprecated. In the future, promise rejections that are not handled will terminate the Node.js process with a non-zero exit code.
+
+20-04-2019 14-24-39: Starting game vs ProtossBot2
+
+20-04-2019 14-24-39: Starting game vs ProtossBot1
+(node:28008) UnhandledPromiseRejectionWarning: ReferenceError: engine is not defined
+    at Object.joinGame (C:\snapshot\nodebot\api.js:49:13)
+    at api.initServer.then._ (C:\snapshot\nodebot\api.js:59:9)
+(node:28008) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 1)
+(node:28008) [DEP0018] DeprecationWarning: Unhandled promise rejections are deprecated. In the future, promise rejections that are not handled will terminate the Node.js process with a non-zero exit code.
+
+20-04-2019 14-26-43: Starting game vs ProtossBot1
+
+20-04-2019 14-26-43: Starting game vs ProtossBot2
+
+20-04-2019 14-28-05: Starting game vs ProtossBot1
+
+20-04-2019 14-28-05: Starting game vs ProtossBot2
+(node:24600) UnhandledPromiseRejectionWarning: ReferenceError: engine is not defined
+    at Object.joinGame (C:\snapshot\nodebot\api.js:49:13)
+    at api.initServer.then._ (C:\snapshot\nodebot\api.js:62:9)
+(node:24600) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 1)
+(node:24004) UnhandledPromiseRejectionWarning: ReferenceError: engine is not defined
+    at Object.joinGame (C:\snapshot\nodebot\api.js:49:13)
+    at api.initServer.then._ (C:\snapshot\nodebot\api.js:62:9)
+(node:24600) [DEP0018] DeprecationWarning: Unhandled promise rejections are deprecated. In the future, promise rejections that are not handled will terminate the Node.js process with a non-zero exit code.
+(node:24004) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 1)
+(node:24004) [DEP0018] DeprecationWarning: Unhandled promise rejections are deprecated. In the future, promise rejections that are not handled will terminate the Node.js process with a non-zero exit code.
+
+20-04-2019 14-29-04: Starting game vs ProtossBot1
+
+20-04-2019 14-29-04: Starting game vs ProtossBot2
+
+20-04-2019 14-35-37: Starting game vs ProtossBot1
+
+20-04-2019 14-35-37: Starting game vs ProtossBot2
+
+20-04-2019 14-40-11: Starting game vs ProtossBot1
+
+20-04-2019 14-40-11: Starting game vs ProtossBot2
+
+20-04-2019 14-42-25: Starting game vs ProtossBot1
+
+20-04-2019 14-42-25: Starting game vs ProtossBot2
+
+20-04-2019 14-45-45: Starting game vs ProtossBot2
+
+20-04-2019 14-45-45: Starting game vs ProtossBot1
